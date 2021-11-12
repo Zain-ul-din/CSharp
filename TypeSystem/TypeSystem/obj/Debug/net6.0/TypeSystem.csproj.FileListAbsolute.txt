@@ -1,0 +1,15 @@
+D:\CSharp\TypeSystem\TypeSystem\bin\Debug\net6.0\TypeSystem.exe
+D:\CSharp\TypeSystem\TypeSystem\bin\Debug\net6.0\TypeSystem.deps.json
+D:\CSharp\TypeSystem\TypeSystem\bin\Debug\net6.0\TypeSystem.runtimeconfig.json
+D:\CSharp\TypeSystem\TypeSystem\bin\Debug\net6.0\TypeSystem.dll
+D:\CSharp\TypeSystem\TypeSystem\bin\Debug\net6.0\ref\TypeSystem.dll
+D:\CSharp\TypeSystem\TypeSystem\bin\Debug\net6.0\TypeSystem.pdb
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.csproj.AssemblyReference.cache
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.AssemblyInfoInputs.cache
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.AssemblyInfo.cs
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.csproj.CoreCompileInputs.cache
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.dll
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\ref\TypeSystem.dll
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.pdb
+D:\CSharp\TypeSystem\TypeSystem\obj\Debug\net6.0\TypeSystem.genruntimeconfig.cache
