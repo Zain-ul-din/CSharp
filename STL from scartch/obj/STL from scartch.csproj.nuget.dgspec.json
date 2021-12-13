@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CSharp\\STL from scartch\\STL from scartch.csproj": {}
+  },
+  "projects": {
+    "D:\\CSharp\\STL from scartch\\STL from scartch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CSharp\\STL from scartch\\STL from scartch.csproj",
+        "projectName": "STL from scartch",
+        "projectPath": "D:\\CSharp\\STL from scartch\\STL from scartch.csproj",
+        "packagesPath": "C:\\Users\\97152\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharp\\STL from scartch\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97152\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

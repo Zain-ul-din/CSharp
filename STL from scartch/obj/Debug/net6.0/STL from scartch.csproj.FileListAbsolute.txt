@@ -1,0 +1,15 @@
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.csproj.AssemblyReference.cache
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.AssemblyInfoInputs.cache
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.AssemblyInfo.cs
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.csproj.CoreCompileInputs.cache
+D:\CSharp\STL from scartch\bin\Debug\net6.0\STL from scartch.exe
+D:\CSharp\STL from scartch\bin\Debug\net6.0\STL from scartch.deps.json
+D:\CSharp\STL from scartch\bin\Debug\net6.0\STL from scartch.runtimeconfig.json
+D:\CSharp\STL from scartch\bin\Debug\net6.0\STL from scartch.dll
+D:\CSharp\STL from scartch\bin\Debug\net6.0\ref\STL from scartch.dll
+D:\CSharp\STL from scartch\bin\Debug\net6.0\STL from scartch.pdb
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.dll
+D:\CSharp\STL from scartch\obj\Debug\net6.0\ref\STL from scartch.dll
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.pdb
+D:\CSharp\STL from scartch\obj\Debug\net6.0\STL from scartch.genruntimeconfig.cache
